@@ -4,3 +4,9 @@ In this Coding practice i have created a short search engine using chromoDb. THi
 
 ## Day 18 Downward Half-Pyramid Pattern
 Practice Problem: Print a downward half-pyramid pattern using stars (*).
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
